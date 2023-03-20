@@ -1,11 +1,11 @@
 
-![The Treasure Tower by Franklin D. Dixon](TreasureTowerCover.jpg "Title")
+
 
 ## The Hardy Boys
 # The Tower Treasure
 
 
-
+![The Treasure Tower by Franklin D. Dixon](FirstPicture.jpg "Title")
 
 ## Chapter 1 <br/> The Speed Demon
 
