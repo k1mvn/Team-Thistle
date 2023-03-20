@@ -2,13 +2,13 @@
 
 
 ## The Hardy Boys
+
 # The Tower Treasure
 
 
-![The Treasure Tower by Franklin D. Dixon](FirstPicture.jpg "Title")
+![“The Red Wig!” Exclaimed Joe, his eyes Widening.](FirstPicture.jpg "Alt Text")
 
 ## Chapter 1 <br/> The Speed Demon
-
 
 “After the help we gave dad on that forgery case I guess he'll begin to think we *could* be detectives when we grow up.”
 
@@ -90,11 +90,7 @@ The driver made no attempt to slacken speed.
 
 The automobile came hurtling toward them!
 
-
-
-
 ## Chapter 2 <br/> The Stolen Roadster
-
 
 The auto brakes squealed.
 
@@ -216,11 +212,7 @@ To their disappointment the car bore no license plates.
 
 Thrilling with the excitement of a chase, the boys clambered back onto the motorcycles and within a few moments a cloud of dust rose from the road as the Hardy boys and Chet Morton set out in swift pursuit of the red-headed automobile thief.
 
-
-
-
 ## Chapter 3 <br/>  Traces of the Thief
-
 
 Chet Morton's roadster was a brilliant yellow, not easily mistaken, and the Hardy boys were confident that it would not be difficult to pick up the trail of the auto thief.
 
@@ -352,11 +344,7 @@ They sped down the main street of Bayport and headed directly to the police stat
 
 But when they reached the police station a further surprise was in wait for them.
 
-
-
-
 ## Chapter 4 <br/> The Hold-Up
-
 
 Chief Ezra Collig, of the Bayport police force, was a burly, red-faced individual, much given to telling long-winded stories.
 
@@ -472,12 +460,7 @@ And with that, the Hardy boys and Chet Morton had to be content.
 
 When they left the office it was with little hope that the thief or the car would be found. Their misgivings were justified. When they returned to see Chief Collig that night they learned that no word had been received concerning the yellow roadster from any of the outlying towns or villages and that despite a diligent search conducted by Detective Smuff and other members of the Bayport force, the roadster had not been located in the city.
 
-
-
-
-
 ## Chapter 5 <br/> Chet Auto Horn
-
 
 Fenton Hardy, the internationally famous detective, was reading in the library of his home that evening when his sons tapped on the door.
 
