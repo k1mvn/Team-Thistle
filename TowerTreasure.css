@@ -40,12 +40,10 @@ h1 {font-size: 3em;
 h2 {font-size: 1.15em;
     width: auto;
     text-align: center;
-    border-bottom: 1px grey solid;
+    border-bottom: 1px grey solid;}
 
 h3 {font-size: 1em;
     width: auto;}
-
-}
 
 img {
   display: block;
