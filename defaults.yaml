@@ -25,4 +25,5 @@ input-files:
   - .\chapters\Chapter22.md
   - .\chapters\Chapter23.md
   - .\chapters\Chapter24.md
+  - BackMatter.md
 ...
