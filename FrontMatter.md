@@ -4,7 +4,7 @@ This eBook is for the use of anyone anywhere in the United States and most other
 
 <br/>
 
-Title: The tower treasure
+Title: The Tower Treasure
 
 Author: Franklin W. Dixon
 
