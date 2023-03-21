@@ -1,0 +1,28 @@
+---
+input-files:
+  - FrontMatter.md
+  - .\chapters\Chapter1.md
+  - .\chapters\Chapter2.md
+  - .\chapters\Chapter3.md
+  - .\chapters\Chapter4.md
+  - .\chapters\Chapter5.md
+  - .\chapters\Chapter6.md
+  - .\chapters\Chapter7.md
+  - .\chapters\Chapter8.md
+  - .\chapters\Chapter9.md
+  - .\chapters\Chapter10.md
+  - .\chapters\Chapter11.md
+  - .\chapters\Chapter12.md
+  - .\chapters\Chapter13.md
+  - .\chapters\Chapter14.md
+  - .\chapters\Chapter15.md
+  - .\chapters\Chapter16.md
+  - .\chapters\Chapter17.md
+  - .\chapters\Chapter18.md
+  - .\chapters\Chapter19.md
+  - .\chapters\Chapter20.md
+  - .\chapters\Chapter21.md
+  - .\chapters\Chapter22.md
+  - .\chapters\Chapter23.md
+  - .\chapters\Chapter24.md
+...
