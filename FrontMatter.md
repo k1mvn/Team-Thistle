@@ -27,7 +27,8 @@ Produced by: Greg Weeks, Mary Meehan and the Online DistributedProofreading Team
 
 
 
-<p class= "center">By Franklin W. Dixon
+::: {.copyright} 
+By Franklin W. Dixon
 
 Author Of
 
@@ -53,7 +54,7 @@ Copyright, 1927, by
 
 Grosset & Dunlap
 
-</p>
+...
 
 
 ## The Hardy Boys

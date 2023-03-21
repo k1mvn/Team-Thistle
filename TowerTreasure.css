@@ -18,6 +18,7 @@ body {
 p {
    margin-bottom:0; 
 }
+
 p + p {
    text-indent:1.6em;
    margin-top:0; 
@@ -60,7 +61,7 @@ b, strong { font-weight: normal;}
 
 .caps {text-transform: uppercase;}
 
-p.center {text-align: center;}
+.copyright {text-align: center;}
 
 blockquote {margin: 1em 2em 1em 1.5em; font-style: italic;}
 
