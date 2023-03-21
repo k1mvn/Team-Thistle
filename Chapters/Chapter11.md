@@ -1,4 +1,4 @@
-## Chapter 11 <br/> Mr. Hardy Investigates
+# Chapter 11 <br/> Mr. Hardy Investigates
 
 
 The Hardy boys looked at one another in growing excitement.

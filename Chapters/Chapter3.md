@@ -1,4 +1,4 @@
-## Chapter 3 <br/>  Traces of the Thief
+# Chapter 3 <br/>  Traces of the Thief
 
 Chet Morton's roadster was a brilliant yellow, not easily mistaken, and the Hardy boys were confident that it would not be difficult to pick up the trail of the auto thief.
 

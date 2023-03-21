@@ -1,4 +1,4 @@
-## Chapter 8 <br/> The Arrest
+# Chapter 8 <br/> The Arrest
 
 
 There was something in Perry Robinson's tone that made Frank and Joe extremely sorry for their chum, for it seemed that the boy realized that the case looked black against his father.

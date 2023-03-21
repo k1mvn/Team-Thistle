@@ -1,4 +1,4 @@
-## Chapter 21 <br/> A New Idea
+# Chapter 21 <br/> A New Idea
 
 
 A week passed, and still the loot was not recovered.

@@ -1,4 +1,4 @@
-## Chapter 23 <br/> Adelia Applegate Compliment
+# Chapter 23 <br/> Adelia Applegate Compliment
 
 
 The curtain rolled down on the mystery of the Tower treasure that afternoon in the library of the Applegate home.

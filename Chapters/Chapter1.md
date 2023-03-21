@@ -1,4 +1,4 @@
-## Chapter 1 <br/> The Speed Demon
+# Chapter 1 <br/> The Speed Demon
 
 “After the help we gave dad on that forgery case I guess he'll begin to think we *could* be detectives when we grow up.”
 

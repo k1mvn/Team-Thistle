@@ -1,4 +1,4 @@
-## Chapter 20 <br/> The Flash in the Tower
+# Chapter 20 <br/> The Flash in the Tower
 
 
 For two days after the unsuccessful search of Tower Mansion, there were no further developments in the affair of the robbery. But on the third day, Chief Collig took a hand.

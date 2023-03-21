@@ -1,4 +1,4 @@
-## Chapter 4 <br/> The Hold-Up
+# Chapter 4 <br/> The Hold-Up
 
 Chief Ezra Collig, of the Bayport police force, was a burly, red-faced individual, much given to telling long-winded stories.
 

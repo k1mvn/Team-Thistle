@@ -1,4 +1,4 @@
-## Chapter 24 <br/> The Last of the Tower Case
+# Chapter 24 <br/> The Last of the Tower Case
 
 
 The discovery of the Tower Mansion treasure was a Bayport sensation for almost a week--and a week is a long time for any sensation to last, even in Bayport.

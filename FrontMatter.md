@@ -57,9 +57,9 @@ Grosset & Dunlap
 ...
 
 
-### The Hardy Boys
+## The Hardy Boys
 
-# The Tower Treasure
+## The Tower Treasure
 
 ![“The Red Wig!” Exclaimed Joe, his eyes Widening.](FirstPicture.jpg "Black and white image of Frank Hardy holding a wig, with his brother Joe standing behind him looking over his shoulder.")
 

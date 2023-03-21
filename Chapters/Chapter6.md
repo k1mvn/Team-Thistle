@@ -1,4 +1,4 @@
-## Chapter 6 <br/> Tire Tracks
+# Chapter 6 <br/> Tire Tracks
 
 Next day was Saturday, and immediately after breakfast the Hardy boys asked their mother to make up a lunch for them, as they intended to spend the day in the woods with a number of their school chums.
 

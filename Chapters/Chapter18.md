@@ -1,4 +1,4 @@
-## Chapter 18 <br/> The New Tower
+# Chapter 18 <br/> The New Tower
 
 
 “They have the audacity to want to go looking through the new tower now,” said Miss Applegate, in high indignation.

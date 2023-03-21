@@ -1,4 +1,4 @@
-## Chapter 12 <br/> Days of Waiting
+# Chapter 12 <br/> Days of Waiting
 
 
 Fenton Hardy had high hopes of a quick solution of the mystery when he went to New York. Possession of the wig, the hat and the coat gave him three clues, any one of which might lead to tracing the previous owner quickly, and the detective was confident that it would not be long before he would unravel the tangled threads. He had not stated his optimism to the boys, being careful not to arouse their hopes, but in his heart he thought it would be but a matter of hours before he ran the owner of the red wig to earth.

@@ -1,4 +1,4 @@
-## Chapter 7 <br/> The Mansion Robbery
+# Chapter 7 <br/> The Mansion Robbery
 
 
 Tower Mansion was one of the show places of Bayport. Few people in the city had ever been permitted to enter the place and the admiration the palatial building excited was solely by reason of its exterior appearance, but the first thing a newcomer to Bayport usually asked was, “Who owns that magnificent house on the hill?”

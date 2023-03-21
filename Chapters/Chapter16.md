@@ -1,4 +1,4 @@
-## Chapter 16 <br/> A Confession
+# Chapter 16 <br/> A Confession
 
 
 “Riley!” ordered the chief, “see that package on the counter of the fruit stand. Go and get it and pour a pail of water over it.”

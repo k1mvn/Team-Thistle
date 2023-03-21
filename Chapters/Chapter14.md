@@ -1,4 +1,4 @@
-## Chapter 14 <br/> Red Jackley
+# Chapter 14 <br/> Red Jackley
 
 
 It was another week before Fenton Hardy returned to Bayport.

@@ -1,5 +1,4 @@
-
-## Chapter 2 <br/> The Stolen Roadster
+# Chapter 2 <br/> The Stolen Roadster
 
 The auto brakes squealed.
 

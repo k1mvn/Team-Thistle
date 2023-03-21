@@ -1,4 +1,4 @@
-## Chapter 19 <br/> The Mystery Deepens
+# Chapter 19 <br/> The Mystery Deepens
 
 
 Fenton Hardy was dumbfounded when his sons returned to him with the news that the loot had been found in neither the old tower nor the new. So implicitly had he believed in the dying confession of Red Jackley that he had not even bothered to join in the search, preferring to let his sons have the satisfaction of recovering the stolen goods that he was positive were hidden in the old tower.

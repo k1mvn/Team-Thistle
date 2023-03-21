@@ -1,4 +1,4 @@
-## Chapter 9 <br/> Red Hair
+# Chapter 9 <br/> Red Hair
 
 
 The arrest of Henry Robinson caused a sensation in Bayport, for the caretaker of Tower Mansion was one of the last men in the city whom one would have suspected of dishonesty. There was a great deal of public sympathy for the family, but little for the accused, as most people seemed to take it for granted that he would not have been arrested if he had not had something to do with the crime.

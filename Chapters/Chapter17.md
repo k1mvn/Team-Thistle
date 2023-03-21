@@ -1,4 +1,4 @@
-## Chapter 17 <br/> The Search of the Tower
+# Chapter 17 <br/> The Search of the Tower
 
 
 When the Hardy boys reached Tower Mansion that morning the door was answered by Hurd Applegate himself. The tall, stooped gentleman peered at them through his thick-lensed glasses. In one hand he held a sheet of stamps, for it was his custom to devote the mornings to his collection.

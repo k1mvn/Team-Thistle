@@ -1,4 +1,4 @@
-## Chapter 13 <br/> In Poor Quarters
+# Chapter 13 <br/> In Poor Quarters
 
 
 In the meantime, the Hardy boys were finding the suspense almost unbearable. They had expected that their father would be away but a day at the most, but when two days dragged by, then three, and finally an entire week, without word from Mr. Hardy further than a brief note from New York stating that he was well and that the case was not as easy of solution as he had hoped, they became depressed.

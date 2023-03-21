@@ -1,4 +1,4 @@
-## Chapter 10 <br/> An Important Discovery
+# Chapter 10 <br/> An Important Discovery
 
 
 When the Hardy boys returned from school next afternoon they saw that a crowd had collected about the bulletin board in the post office.

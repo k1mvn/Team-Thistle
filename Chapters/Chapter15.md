@@ -1,4 +1,4 @@
-## Chapter 15 <br/> The Chief Gets a Bomb
+# Chapter 15 <br/> The Chief Gets a Bomb
 
 
 “What's up now?” asked Joe, when the Hardy boys had left the house.
