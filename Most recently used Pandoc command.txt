@@ -1,0 +1,1 @@
+--toc --toc-depth=2 --defaults defaults.yaml --split-level=2 -s metadata.yaml -t epub3  -o TheTowerTreasure.epub
