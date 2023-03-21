@@ -1,6 +1,5 @@
 body {
-  background-color:an;
-  width: 35em;
+  width: 70%;
   margin-left: 10%;
   margin-right: 10%;
   line-height: 140%;
@@ -60,6 +59,8 @@ ul {margin: 0em; padding-left: 1em; }
 b, strong { font-weight: normal;}
 
 .caps {text-transform: uppercase;}
+
+p.center {text-align: center;}
 
 blockquote {margin: 1em 2em 1em 1.5em; font-style: italic;}
 

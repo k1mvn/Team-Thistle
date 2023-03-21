@@ -27,7 +27,7 @@ Produced by: Greg Weeks, Mary Meehan and the Online DistributedProofreading Team
 
 
 
-<p style="text-align: center;">By Franklin W. Dixon
+<p class= "center">By Franklin W. Dixon
 
 Author Of
 
