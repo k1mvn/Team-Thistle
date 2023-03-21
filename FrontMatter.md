@@ -57,7 +57,7 @@ Grosset & Dunlap
 ...
 
 
-## The Hardy Boys
+### The Hardy Boys
 
 # The Tower Treasure
 
