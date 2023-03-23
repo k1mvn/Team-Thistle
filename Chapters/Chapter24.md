@@ -102,8 +102,20 @@ The Hardy boys looked at one another, as the crowd about the table broke into a 
 “He's a pretty good old scout after all, isn't he?” said Frank.
 
 “You bet he is,” replied his brother.
-
-
-
-
+<br/>
 T<span class="caps">he</span> E<span class="caps">nd</span>
+<br/>
+<br/>
+<div class="Volumes" markdown="1">
+The Hardy Boys: The Tower Treasure <br/> 
+The Hardy Boys: The House on the Cliff <br/> 
+The Hardy Boys: The Secret of the Old Mill<br/> 
+(Other Volumes in Preparation)
+<br/>
+*** End of the Project Gutenberg eBook *The Tower Treasure* ***
+
+</div>
+
+
+
+

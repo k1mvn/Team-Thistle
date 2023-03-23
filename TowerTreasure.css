@@ -68,6 +68,10 @@ b, strong { font-weight: normal;}
 
 .copyright {text-align: center;}
 
+.Volumes {text-align: center;
+    text-indent: 0;
+}
+
 .author, .date, .publisher, .rights {text-align: center;
     text-indent: 0;
     margin-bottom: 1em;

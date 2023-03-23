@@ -1,14 +1,7 @@
 
 
-# 
+# Project Gutenburg Licencing Details
 
-• The Hardy Boys: The Tower Treasure <br/> 
-• The Hardy Boys: The House on the Cliff <br/> 
-• The Hardy Boys: The Secret of the Old Mill
-
-(Other Volumes in Preparation)
-
-*** End of the Project Gutenberg eBook *The Tower Treasure* ***
 
 Updated editions will replace the previous one--the old editions will be renamed.
 
