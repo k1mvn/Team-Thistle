@@ -48,7 +48,7 @@ h3 {font-size: 1em;
     width: auto;
 }
 
-img {
+img, .cover-image {
   display: block;
   margin-left: auto;
   margin-right: auto;
