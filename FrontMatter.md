@@ -26,8 +26,8 @@ Produced by: Greg Weeks, Mary Meehan and the Online DistributedProofreading Team
 
 
 
+<div class="copyright" markdown="1">
 
-::: {.copyright} 
 By Franklin W. Dixon
 
 Author Of
@@ -54,12 +54,10 @@ Copyright, 1927, by
 
 Grosset & Dunlap
 
-...
+</div>
 
 
-## The Hardy Boys
-
-## The Tower Treasure
+## The Hardy Boys <br/> The Tower Treasure
 
 ![“The Red Wig!” Exclaimed Joe, his eyes Widening.](FirstPicture.jpg "Black and white image of Frank Hardy holding a wig, with his brother Joe standing behind him looking over his shoulder.")
 
