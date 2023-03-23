@@ -106,7 +106,9 @@ The Hardy boys looked at one another, as the crowd about the table broke into a 
 T<span class="caps">he</span> E<span class="caps">nd</span>
 <br/>
 <br/>
-<div class="Volumes" markdown="1">
+
+::: {.Volumes}
+
 The Hardy Boys: The Tower Treasure <br/> 
 The Hardy Boys: The House on the Cliff <br/> 
 The Hardy Boys: The Secret of the Old Mill<br/> 
@@ -114,7 +116,7 @@ The Hardy Boys: The Secret of the Old Mill<br/>
 <br/>
 *** End of the Project Gutenberg eBook *The Tower Treasure* ***
 
-</div>
+:::
 
 
 

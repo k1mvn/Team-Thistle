@@ -26,7 +26,7 @@ Produced by: Greg Weeks, Mary Meehan and the Online DistributedProofreading Team
 
 
 
-<div class="copyright" markdown="1">
+::: {.copyright}
 
 By Franklin W. Dixon
 
@@ -54,7 +54,7 @@ Copyright, 1927, by
 
 Grosset & Dunlap
 
-</div>
+:::
 
 
 ## The Hardy Boys <br/> The Tower Treasure
