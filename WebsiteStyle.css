@@ -44,9 +44,9 @@ p {
 }
 
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  float: right;
+  border: 1px dotted black;
+  margin: 0px 0px 15px 20px;
   max-width: 30%;
   height: auto;
   aspect-ratio: initial;
