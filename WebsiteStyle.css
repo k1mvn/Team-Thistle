@@ -66,7 +66,7 @@ img {
   aspect-ratio: auto;
   background-color: #f50000;
   border-radius: 15%;
-  border-width:1px;
+  border-width: 1px;
   border-color: white;
   font-family: sans-serif;
   font-weight: normal;
@@ -75,5 +75,4 @@ img {
   text-decoration: none;
   display: inline-block;
   font-size: 1.3em;
-  cursor: default;
 }
