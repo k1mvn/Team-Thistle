@@ -17,21 +17,23 @@ h1 {
 }
 
 h2 {
+  width: 45%;
   font-family: "Titan One", Arial;
   font-size: 2em;
   font-weight: bold;
   color: #f50000;
   padding: 0.15em;
   margin-top: 5%;
-  margin-left: 15%;
+  margin-left: 5 %;
   border-bottom: 1px red solid;
 }
 
 p {
+  width: 45%;
   font-family: sans-serif;
   font-size: 1.3em;
   font-weight: normal;
-  margin-left: 16%;
+  margin-left: 6%;
   color: white;
 }
 
