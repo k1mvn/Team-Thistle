@@ -66,6 +66,7 @@ img {
   aspect-ratio: auto;
   background-color: #f50000;
   border-right: 3px white solid;
+  border-bottom: 3px white solid;
   border-radius: 5px;
   font-family: sans-serif;
   font-weight: normal;
