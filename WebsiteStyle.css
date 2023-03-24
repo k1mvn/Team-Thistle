@@ -4,7 +4,6 @@ body {
   margin-left: 10%;
   margin-right: 10%;
   line-height: 140%;
-  text-align: justify;
 }
 
 h1 {
@@ -13,7 +12,7 @@ h1 {
   font-weight: bold;
   color: #f50000;
   margin-top: 10%;
-  border-bottom: 1px #f50000 solid;
+  border-bottom: 1px red solid;
 }
 
 h2 {
@@ -22,7 +21,7 @@ h2 {
   font-weight: normal;
   color: #f50000;
   margin-top: 5%;
-  border-bottom: 1px #f50000 solid;
+  border-bottom: 1px red solid;
 }
 
 p {
@@ -31,11 +30,4 @@ p {
   font-weight: normal;
   color: white;
   margin-top: 0%;
-}
-body {
-    font-family: "Adobe Garamond Pro", serif;
-    font-size:1.1em;
-    font-style:normal;
-    font-weight:normal;
-    line-height: 1.4em;
 }
