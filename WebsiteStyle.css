@@ -1,0 +1,21 @@
+body {
+  background-color: #315c9d;
+  width: 70%;
+  margin-left: 10%;
+  margin-right: 10%;
+  line-height: 140%;
+  text-align: justify;
+}
+
+h1 {  font-family: "Titan One", Arial;
+  font-weight: bold;
+  color: #f50000;
+
+}
+body {
+    font-family: "Adobe Garamond Pro", serif;
+    font-size:1.1em;
+    font-style:normal;
+    font-weight:normal;
+    line-height: 1.4em;
+}
