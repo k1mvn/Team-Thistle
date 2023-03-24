@@ -65,9 +65,8 @@ img {
   margin-left: 5%;
   aspect-ratio: auto;
   background-color: #f50000;
-  border-radius: 15%;
-  border-width: 1px;
-  border-color: white;
+  border-left: 2px white solid;
+  border-radius: 5px;
   font-family: sans-serif;
   font-weight: normal;
   padding: 20px 40px;
