@@ -61,17 +61,49 @@ img {
   margin: 0 0 0 15px;
 }
 
-.button {
-  margin-left: 5%;
-  background-color: #f50000;
-  border-radius: 15%;
-  border-width:1px;
-  border-color: white;
-  font-weight: bold;
-  padding: 20px 40px;
+.effect {
   text-align: center;
-  text-decoration: none;
   display: inline-block;
-  font-size: 1.3em;
-  cursor: default;
+  position: relative;
+  text-decoration: none;
+  color: $link-text-color;
+  text-transform: capitalize;
+  /* background-color: - add your own background-color */
+  font-family: 'Roboto', sans-serif;/* put your font-family */
+  font-size: 18px;
+  padding: 20px 0px;
+  width: 150px;
+  border-radius: $border-radius;
+  overflow: hidden;
+}
+
+/* effect-1 styles */
+
+.effect.effect-1 {
+  transition: all 0.2s linear 0s;
+  
+  &:before 
+    content: "\f178";
+    font-family: FontAwesome;
+    font-size: 15px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 0;
+    top: 0;
+    opacity: 0;
+    height: 100%;
+    width: 40px;
+    transition: all 0.2s linear 0s;
+  }
+  
+  &:hover {
+    text-indent: -20px;
+    
+    &:before 
+      opacity: 1;
+      text-indent: 0px;
+    }
+  }
 }
