@@ -1,4 +1,4 @@
-# Chapter 5 <br/> Chet Auto Horn
+# Chapter 5 <br/> Chet's Auto Horn
 
 Fenton Hardy, the internationally famous detective, was reading in the library of his home that evening when his sons tapped on the door.
 
