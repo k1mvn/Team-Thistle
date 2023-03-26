@@ -81,6 +81,6 @@ img {
 }
 
 
-.customlink a:link {color:whitesmoke; font-size: 1.3em;}
-.customlink a:visited {color:#f50000; font-size: 1.3em;}
-.customlink a:hover {color:#f50000; font-style:italic;}
+a.customlink:link {color:whitesmoke;}
+a.customlink:visited {color:#f50000; font-size: 1.3em;}
+a.customlink:hover {color:#f50000; font-style:italic;}
