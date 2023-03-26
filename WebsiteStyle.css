@@ -63,10 +63,6 @@ img {
   margin: 0 0 0 15px;
 }
 
-.link a:link {color:ghostwhite;}
-.link a:visited {color:#f50000;}
-.link a:hover {text-decoration:;color:#f50000;font-style:italic;}
-
 .button {
   margin-left: 5%;
   aspect-ratio: auto;
@@ -83,3 +79,8 @@ img {
   display: inline-block;
   font-size: 1.3em;
 }
+
+
+.customlink a:link {color:whitesmoke; font-size: 1.3em;}
+.customlink a:visited {color:#f50000; font-size: 1.3em;}
+.customlink a:hover {color:#f50000; font-style:italic;}
