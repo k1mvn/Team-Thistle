@@ -3,7 +3,7 @@ body {
   width: 60%;
   margin-left: 5%;
   margin-right: 15%;
-  line-height: 140%;
+  line-height: 160%;
 }
 
 h1 {
@@ -80,3 +80,7 @@ img {
   display: inline-block;
   font-size: 1.3em;
 }
+
+.link a:link {color:ghostwhite;}
+.link a:visited {color:#f50000;}
+.link a:hover {text-decoration:;color:#f50000;font-style:italic;}
