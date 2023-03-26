@@ -80,8 +80,8 @@ img {
   font-size: 1.3em;
 }
 
-.customlink a:link {font-family: sans-serif;font-size: 1.3em;font-weight: normal;color:whitesmoke;}
+.customlink a:link {font-size: 1.3em; font-weight: normal; color:whitesmoke;}
 
-.customlink a:visited {font-family: sans-serif;font-size: 1.3em;font-style: normal;color:#f50000;}
+.customlink a:visited {font-size: 1.3em; font-style: normal; color:#f50000;}
 
-.customlink a:hover {font-family: sans-serif;font-size: 1.3em;color:#f50000;font-style:italic;}
+.customlink a:hover {font-size: 1.3em; color:#f50000; font-style:italic;}
