@@ -18,7 +18,6 @@ h1 {
 }
 
 h2 {
-  width: 75%;
   font-family: "Titan One", Arial;
   font-size: 1.8em;
   font-weight: bold;
@@ -31,8 +30,7 @@ h2 {
 }
 
 p {
-  width: 75%;
-  line-height: 160%;
+  width: 100%;
   font-family: sans-serif;
   font-size: 1.3em;
   font-weight: normal;
@@ -82,6 +80,23 @@ img {
   font-size: 1.3em;
 }
 
-.customlink a:link {color:ghostwhite;}
-.customlink a:visited {color:#f50000;}
-.customlink a:hover {text-decoration:;color:#f50000;font-style:italic;}
+.customlink a:link {
+  font-family: sans-serif;
+  font-size: 1.3em;
+  font-weight: normal;
+  color:white;
+}
+
+.customlink a:visited {
+  font-family: sans-serif;
+  font-size: 1.3em;
+  font-style: normal;
+  color:#f50000;
+}
+
+.customlink a:hover {
+  font-family: sans-serif;
+  font-size: 1.3em;
+  color:#f50000;
+  font-style:italic;
+}
